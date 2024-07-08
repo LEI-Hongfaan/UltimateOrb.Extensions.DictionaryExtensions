@@ -31,4 +31,4 @@ This library relies on the internal structures of the `Dictionary` and other cla
 
 License
 ====
-This project is licensed under the MIT License.
+This library is distributed under the MIT License.
